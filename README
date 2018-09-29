@@ -1,0 +1,14 @@
+Zach Johnson
+This is my x86 assembly calculator assignment for CSC 314, DSU.
+
+Instructions:
+./calculator
+
+<Int A>
+<operator>
+<Int B>
+
+
+The equation and result is then printed below.
+
+The calculator handles *, /, +, -, %, and ^ operators
